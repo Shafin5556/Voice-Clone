@@ -1,2 +1,2 @@
-This is a Voice Clonign tool that can clone any voice 
-and have a suppor of record voice of realtime
+This is a Voice Cloning tool that can clone any voice 
+and have a support of record voices of realtime
